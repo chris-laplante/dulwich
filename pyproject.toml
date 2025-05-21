@@ -23,7 +23,7 @@ classifiers = [
     "Operating System :: Microsoft :: Windows",
     "Topic :: Software Development :: Version Control",
 ]
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 dependencies = [
     "urllib3>=1.25",
 ]
